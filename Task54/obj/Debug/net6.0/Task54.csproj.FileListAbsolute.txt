@@ -1,0 +1,15 @@
+D:\IT ЖИЗНЬ\C#Seminars\Homework8\Task54\bin\Debug\net6.0\Task54.exe
+D:\IT ЖИЗНЬ\C#Seminars\Homework8\Task54\bin\Debug\net6.0\Task54.deps.json
+D:\IT ЖИЗНЬ\C#Seminars\Homework8\Task54\bin\Debug\net6.0\Task54.runtimeconfig.json
+D:\IT ЖИЗНЬ\C#Seminars\Homework8\Task54\bin\Debug\net6.0\Task54.dll
+D:\IT ЖИЗНЬ\C#Seminars\Homework8\Task54\bin\Debug\net6.0\Task54.pdb
+D:\IT ЖИЗНЬ\C#Seminars\Homework8\Task54\obj\Debug\net6.0\Task54.csproj.AssemblyReference.cache
+D:\IT ЖИЗНЬ\C#Seminars\Homework8\Task54\obj\Debug\net6.0\Task54.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT ЖИЗНЬ\C#Seminars\Homework8\Task54\obj\Debug\net6.0\Task54.AssemblyInfoInputs.cache
+D:\IT ЖИЗНЬ\C#Seminars\Homework8\Task54\obj\Debug\net6.0\Task54.AssemblyInfo.cs
+D:\IT ЖИЗНЬ\C#Seminars\Homework8\Task54\obj\Debug\net6.0\Task54.csproj.CoreCompileInputs.cache
+D:\IT ЖИЗНЬ\C#Seminars\Homework8\Task54\obj\Debug\net6.0\Task54.dll
+D:\IT ЖИЗНЬ\C#Seminars\Homework8\Task54\obj\Debug\net6.0\refint\Task54.dll
+D:\IT ЖИЗНЬ\C#Seminars\Homework8\Task54\obj\Debug\net6.0\Task54.pdb
+D:\IT ЖИЗНЬ\C#Seminars\Homework8\Task54\obj\Debug\net6.0\Task54.genruntimeconfig.cache
+D:\IT ЖИЗНЬ\C#Seminars\Homework8\Task54\obj\Debug\net6.0\ref\Task54.dll
